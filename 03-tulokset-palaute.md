@@ -1,9 +1,9 @@
 ---
 title: Tulokset ja palaute
 permalink: /tulokset-palaute/
-hide: false
+hide: true
 ---
-    
+
 # Tulokset ja palaute
 
 * [Kurssin I-osan loppuraportti](../raportti1)
