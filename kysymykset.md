@@ -3,7 +3,7 @@ title: Kysymyksiä ja vastauksia
 permalink: /kysymykset/
 hide: true
 ---
-    
+
 # Kysymyksiä ja vastauksia
 
 **Mitä suorituksia kurssiin kuuluu?**
