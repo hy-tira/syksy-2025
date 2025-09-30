@@ -35,11 +35,11 @@ Kurssin II-osa muodostuu viikoista 9–16. Tehtävät julkaistaan 27.10., ja teh
 
 ## Tentit
 
-Kurssin I-osan tentti järjestetään 17.10. klo 9–12 Kumpulan kampuksella.
+Kurssin I-osan tentti järjestetään 17.10. klo 9 alkaen Kumpulan kampuksella.
 
-Kurssin II-osan tentti järjestetään 12.12. klo 9–12 Kumpulan kampuksella.
+Kurssin II-osan tentti järjestetään 12.12. klo 9 alkaen Kumpulan kampuksella.
 
-Lisätietoa tulee lähempänä tenttejä. Tenttien tavoitteena on varmistaa, että opiskelija osaa kurssin asiat. Tenteissä saattaa olla tehtäviä, joiden ratkaiseminen vaaditaan tiettyihin kurssin arvosanoihin.
+Lisätietoa tenteistä on [tenttiohjeessa](tenttiohje). Sinun tulee ilmoittautua tenttiin viimeistään kolme päivää ennen tenttiä.
 
 ## Yhteystiedot
 
