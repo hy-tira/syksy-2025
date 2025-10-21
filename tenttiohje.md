@@ -10,14 +10,21 @@ Kurssin kumpikin osasuoritus vaatii osallistumisen tenttiin Kumpulan kampuksella
 
 ## Ilmoittautuminen
 
-* Kurssin I-osan tentti järjestetään 17.10. klo 9 alkaen Exactumin salissa A111. Ilmoittaudu tenttiin viimeistään 14.10. [lomakkeella](https://elomake.helsinki.fi/lomakkeet/136885/).
-* Kurssin II-osan tentti järjestetään 12.12. klo 9 alkaen Exactumin salissa A111. Ilmoittaudu tenttiin viimeistään 9.12. [lomakkeella](https://elomake.helsinki.fi/lomakkeet/136886/).
+### I-osa
 
-Jos et pysty osallistumaan tenttiin, on mahdollista järjestää korvaava tentti. Lähetä tässä tapauksessa sähköposti [kurssin vastuuhenkilölle](mailto:ahslaaks@cs.helsinki.fi).
+* Kurssin I-osan tentti järjestetään pe 17.10. klo 9:00 alkaen Exactumin salissa A111. Ilmoittaudu tenttiin viimeistään 14.10. [lomakkeella](https://elomake.helsinki.fi/lomakkeet/136885/).
+* Ensimmäinen korvaava tentti järjestetään to 30.10. klo 16:00 alkaen Exactumissa. Ilmoittaudu tenttiin viimeistään 27.10. [lomakkeella](https://elomake.helsinki.fi/lomakkeet/137309/).
+* Toinen korvaava tentti järjestetään ti 18.11. klo 16:00 alkaen Exactumissa. Ilmoittaudu tenttiin viimeistään 15.11. [lomakkeella](https://elomake.helsinki.fi/lomakkeet/137310/).
+
+Korvaavien tenttien salit ilmoitetaan lähempänä tenttiä tällä sivulla.
+
+### II-osa
+
+* Kurssin II-osan tentti järjestetään 12.12. klo 9:00 alkaen Exactumin salissa A111. Ilmoittaudu tenttiin viimeistään 9.12. [lomakkeella](https://elomake.helsinki.fi/lomakkeet/136886/).
 
 ## Osallistuminen
 
-Tenttiaika on kaksi tuntia. Tule paikalle täsmällisesti klo 9:00, jotta tentti pystytään aloittamaan ilman viivästystä.
+Tenttiaika on kaksi tuntia. Tule paikalle täsmällisesti, jotta tentti pystytään aloittamaan ilman viivästystä.
 
 Tentti suoritetaan kynällä ja paperilla. Sinulla tulee olla mukana tentissä:
 
