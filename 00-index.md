@@ -15,7 +15,7 @@ Kurssi järjestetään samalla tavalla Helsingin yliopiston tutkinto-opiskelijoi
 
 Kurssin ohjausta järjestetään [Discordissa](https://study.cs.helsinki.fi/discord/join/tira), jossa voit keskustella kurssin järjestäjien ja muiden opiskelijoiden kanssa.
 
-Lisäksi ohjausta on tarjolla Kumpulan kampuksella Exactumin salissa BK107 tiistaisin klo 12–16, keskiviikkoisin klo 14–18 sekä torstaisin klo 12–16.
+Lisäksi ohjausta on tarjolla Kumpulan kampuksella Exactumin salissa BK107 maanantaisin klo 14:30–16:30, tiistaisin klo 12–16, keskiviikkoisin klo 14–18 sekä torstaisin klo 12–16.
 
 ## Tehtävät
 
