@@ -24,7 +24,7 @@ Kurssin suoritusmäärä oli tänä syksynä selvästi pienempi kuin aiempina vu
 
 Paperitentti ei ole ihanteellinen tapa mitata kurssin osaamista, mikä näkyy myös kurssin palautteessa. Olisi hyvä pystyä tulevaisuudessa tarjoamaan esimerkiksi valvotussa ympäristössä tietokoneilla suoritettava tentti. Toisaalta haasteena on, että algoritmien suunnittelu ja toteuttaminen vaatii usein miettimistä ja aikaa, minkä takia tätä kykyä on vaikeaa mitata lyhyessä tenttitilaisuudessa.
 
-Kurssipalautteessa on annettu kritiikkiä siitä, että vain 2/3 tentin osallistujista pääsi tentin läpi. Kuitenkin tentin arvostelijan näkökulmasta melko monella tentissä hylätyllä ongelmana on, että ohjelmoinnin perustaidoissa on suuria puutteita. Tämä voi olla yksi selitys siihen, miksi kurssi tuntuu hyvin vaikealta osalle opiskelijoita. Kurssin materiaali ja tehtävät olettavat että opiskelijalla on hyvät ohjelmoinnin perustaidot, mutta jos näin ei ole, kurssin suorittaminen voi olla hyvin vaikeaa.
+Kurssipalautteessa on annettu kritiikkiä siitä, että vain 2/3 tentin osallistujista pääsi tentin läpi. Kuitenkin tentin arvostelijan näkökulmasta melko monella tentissä hylätyllä on suuria puutteita ohjelmoinnin perustaidoissa. Tämä voi olla yksi selitys siihen, miksi kurssi tuntuu hyvin vaikealta osalle opiskelijoista. Kurssin materiaali ja tehtävät olettavat, että opiskelijalla on hyvät ohjelmoinnin perustaidot, mutta jos näin ei ole, kurssin suorittaminen voi olla hyvin vaikeaa.
 
 ## Kurssipalaute
 
