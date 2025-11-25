@@ -7,3 +7,5 @@ hide: false
 # Tulokset ja palaute
 
 * [Kurssin I-osan loppuraportti](../raportti1)
+* [Kurssin I-osan analyysi](../analyysi)
+

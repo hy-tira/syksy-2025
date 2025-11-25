@@ -6,39 +6,22 @@ hide: true
     
 # Kurssin I-osan analyysi
 
-Syksyllä 2025 kurssi _Tietorakenteet ja algoritmit I_ keräsi selvästi vähemmän opiskelijoita kuin aiempien syksyjen toteutukset:
+Syksyn 2025 kurssi _Tietorakenteet ja algoritmit I_ keräsi selvästi vähemmän osallistujia kuin aiempien syksyjen toteutukset:
 
-Toteutus | Aloittajat | Hyväksytyt | Läpäisyprosentti
+Toteutus | Aloittajat | Suorittajat | Läpäisyprosentti
 --- | --- | --- | ---
 Syksy 2020 | 408 | 235 | 57.6 %
 Syksy 2021 | 307 | 161 | 52.4 %
 Syksy 2022 | 287 | 123 | 42.9 %
-Syksy 2023 | 367 | 232 | 63.2 %
+Syksy 2023 | 367 | 209 | 56.9 %
 Syksy 2024 | 295 | 170 | 57.6 %
 Syksy 2025 | 169 | 55 | 32.5 %
 
-Syksyllä 2025 sekä kurssin aloittaneiden opiskelijoiden määrä (169) että kurssin hyväksytysti suorittaneiden opiskelijoiden määrä (55) oli poikkeavan pieni. Myös läpäisyprosentti (32.5 %) oli historian pienin. Mitä näiden muutosten taustalla on?
+Vaikka kurssin osallistujamäärät ovat vaihdelleet paljon eri vuosina, tänä syksynä vaikuttaa tapahtuneen jotain eritystä: kurssin suorittajien määrä on alle kolmannes viime syksystä ja läpäisyprosentti on historiallisen alhainen. Mistä on kyse?
 
-## Kurssin toteutukset
+Kaikissa toteutuksissa kurssin suoritus on perustunut automaattisesti arvioitaviin verkkotehtäviin. Syksyyn 2024 asti kurssin pystyi suorittamaan kokonaan etäopiskeluna tehtävien perusteella. Syksyllä 2025 kurssin suorituksen osaksi lisättiin valvottu tentti, joka mittaa kurssin perusasioiden osaamista. Tentin tavoitteena on estää kurssin suorittaminen ratkomalla tehtävät tekoälyllä.
 
-Seuraavassa on yhteenveto kurssin syksyn toteutuksista vuosina 2020–2025:
-
-Toteutus | Viikkoja | Deadlinet | Arvostelu | Tentti
---- | --- | --- | --- | ---
-Syksy 2020 | 7 | viikoittain | 0–5 | ei
-Syksy 2021 | 7 | viikoittain | 0–5 | ei
-Syksy 2022 | 7 | kurssin lopussa | 0–5 | ei
-Syksy 2023 | 8 | kurssin lopussa | 0–5 | ei
-Syksy 2024 | 8 | kurssin lopussa | hyv./hyl. | ei
-Syksy 2025 | 8 | kurssin lopussa | 0–5 | kyllä
-
-Kaikissa toteutuksissa kurssin suoritus on perustunut automaattisesti arvioitaviin verkkotehtäviin. Syksyyn 2024 asti kurssin pystyi suorittamaan kokonaan etäopiskeluna tehtävien perusteella. Syksyllä 2025 kurssin suorituksen osaksi lisättiin valvottu kampustentti, joka mittaa kurssin perusasioiden osaamista.
-
-Kampuksella järjestettävä tentti saattaa selittää kurssin opiskelijamäärän pienentymistä ainakin kahdella tavalla:
-
-1. Tenttiin osallistuminen voi olla hankalaa kaukana asuville. Aiemmin kurssin pystyi suorittamaan kokonaan etäopiskeluna, jolloin kurssin suorittaminen oli helppoa riippumatta asuinpaikasta.
-
-2. Kurssin läpäiseminen on vaikeampaa kuin ennen. Viime vuosina on havaittu, että suuri osa kurssin opiskelijoista ratkoo tehtäviä tekoälyllä. Valvotussa tentissä ei voi käyttää tekoälyä, mikä voi vaikeuttaa kurssin suorittamista.
+Kurssin suorittajissa on ollut paljon avoimen yliopiston opiskelijoita, jotka asuvat usein pääkaupunkiseudun ulkopuolella. Heidän kannaltaan läsnäoloa vaativa tentti voi hankaloittaa merkittävästi kurssin suorittamista.
 
 ## Viikoittain ratkotut tehtävät
 
@@ -70,28 +53,55 @@ Tämän perusteella vaikuttaa siltä, että tentti ei karsinut kovin paljon kurs
 
 Toisaalta on mahdollista, että opiskelija ei suorittanut kurssia alkua pidemmälle, koska hän ei uskonut pärjäävänsä tentissä. Tästä ilmiöstä on vaikeaa saada tietoa.
 
-## Tutkinto-opiskelijat vs. avoimet opiskelijat
+## Avoimen yliopiston suorittajat
 
-TODO
+Seuraava taulukko näyttää avoimen yliopiston opiskelijoiden osuudet kurssin suorittajissa viime vuosina:
+
+Toteutus | Suorittajat | Avoimesta | Osuus
+--- | --- | --- | ---
+Syksy 2020 | 235 | 74 | 31.5 %
+Syksy 2021 | 161 | 46 | 28.6 %
+Syksy 2022 | 123 | 48 | 39.0 %
+Syksy 2023 | 209 | 82 | 39.2 %
+Syksy 2024 | 170 | 60 | 35.3 %
+Syksy 2025 | 55 | 7 | 12.7 %
+
+Syksyllä 2025 avoimen yliopiston suorittajien osuus oli selvästi pienempi kuin aiempina vuosina. Tämä oli odotettavaa, koska kurssiin lisätty läsnäoloa vaativa tentti rajoittaa avoimen yliopiston opiskelijoiden osallistumista.
+
+Kuitenkaan avoimen yliopiston suorittajien vähentyminen ei yksin selitä kurssin suorittajien määrän muutosta. Jos avoimen yliopiston suorituksia olisi ollut tutkinto-opiskelijoiden suoritusten lisäksi "tavallinen" määrä (35 %), kurssin olisi suorittanut 85 opiskelijaa, mikä sekin olisi ollut selvästi aiempaa vähemmän.
+
+Avoimen yliopiston suorittajien vähentynyt määrä saattaa vaikuttaa tulevaisuudessa myös tietojenkäsittelytieteen avoimen väylän hakijamäärään.
+
+## Vertailu toiseen kurssiin
+
+Vaikuttaa siis siltä, että läsnäoloa vaativa tentti ei ole ainoa selitys kurssin suoritusmäärän vähentymiselle. Yksi hyvä vertailukohta on kurssi _Tietokantojen perusteet_, joka järjestetään myös syksyisin verkkokurssina ja jossa ei ole vielä valvottua tenttiä. Syksyllä 2024 kurssin suoritti 157 opiskelijaa, ja syksyllä 2025 kurssin suoritti 103 opiskelijaa.
+
+Kurssin _Tietokantojen perusteet_ suoritusmäärä väheni syksyllä 2025 edelliseen vuoteen verrattuna 34.3 %, vaikka kurssin järjestämistapa ei muuttunut. Tämän perusteella saattaa olla yleisempiä taustatekijöitä, jotka ovat vähentäneet kurssien suoritusmääriä. Esimerkiksi huonontunut työllisyystilanne ja yleisemmin huolet tekoälyn vaikutuksista alan tulevaisuuteen saattavat vähentää kurssien suosiota.
 
 ## Tekoälyn käyttäminen
 
-Kurssin tentin tavoitteena oli varmistaa, että opiskelija hallitsee kurssin perusasioita itsenäisesti ilman tekoälyn apua. Kurssin vastuuhenkilön arvion mukaan tämä tavoite onnistui syksyllä 2025 tentin ansiosta.
+Kurssin syksyn 2025 tentin tavoitteena oli varmistaa, että opiskelija hallitsee kurssin perusasioita itsenäisesti ilman tekoälyä. Tämä tavoite vaikuttaa onnistuneen hyvin.
 
 Toisaalta vaikuttaa siltä, että kurssin osallistujat käyttävät edelleen runsaasti tekoälyä viikkotehtävien ratkomisessa. Tämä saattaa olla edelleen ongelma kurssin arvioinnissa, koska tentti mittaa vain kurssin perusasioita ja viikkotehtävät vaikuttavat voimakkaasti arvosanaan.
 
-Esimerkiksi kurssin viimeisellä viikolla oli vaikea ohjelmointitehtävä [Tähdet](https://cses.fi/tira25s/task/3494), jossa tekoäly tuottaa usein ratkaisun, jossa on tunnistettavia piirteitä. Kurssin vastuuhenkilön arvion mukaan tehtävän suorittaneista 8/20 opiskelijaa (40.0 %) palautti tekoälyn tuottaman ratkaisun. Ei ole kuitenkaan mahdollista osoittaa luotettavasti, että jokin yksittäinen ratkaisu on tekoälyn tuottama.
+Esimerkiksi kurssin viimeisen viikon [Tähdet-tehtävässä](https://cses.fi/tira25s/task/3494) tekoäly tuottaa usein ratkaisun, jossa on tunnistettavia piirteitä. Kurssin vastuuhenkilön arvion mukaan tehtävän suorittaneista 8/20 opiskelijaa (40.0 %) palautti tekoälyn tuottaman ratkaisun. Ei ole kuitenkaan mahdollista osoittaa luotettavasti, että jokin yksittäinen ratkaisu on tekoälyn tuottama.
 
-Tämän takia tulevaisuudessa voisi olla hyvä muuttaa kurssin arviointia niin, että arvosana perustuisi vain valvottuun suoritukseen. Tässä on kuitenkin ongelmana, että tämä muutos voisi vähentää huomattavasti motivaatiota ratkoa kurssin tehtäviä.
+Tulevaisuudessa voisi olla hyvä muuttaa kurssin arviointia niin, että arvosana perustuisi vain valvottuun suoritukseen. Ongelmana on kuitenkin, että tämä muutos voisi vähentää huomattavasti motivaatiota ratkoa tehtäviä kurssin aikana.
 
 ## Puutteet perusohjelmointitaidossa
 
 Kurssin vastuuhenkilön havaintojen perusteella yleinen syy vaikeuksiin kurssin suorittamisessa on, että opiskelija ei osaa ohjelmoida riittävän hyvin. Tämä vaikutelma vahvistui syksyn 2025 kurssin tenttien arvioinnissa.
 
-Kurssin materiaali ja tehtävät on laadittu olettaen, että opiskelijalla on hyvät ohjelmoinnin perustaidot. Jos näin ei ole, kurssin suorittaminen voi olla hyvin vaikeaa.
+Kurssin materiaali ja tehtävät on laadittu olettaen, että opiskelijalla on hyvät ohjelmoinnin perustaidot. Jos näin ei ole, kurssin suorittaminen voi olla hyvin vaikeaa. Tällaisessa tilanteessa opiskelija voi myös turvautua tekoälyyn sen takia, että hän ei pysty suorittamaan tehtäviä muulla tavalla.
 
-Tällä hetkellä on mahdollista suorittaa kurssit _Ohjelmoinnin perusteet_ ja _Ohjelmoinnin jatkokurssi_ kokonaan tekoälyllä. Tämän seurauksena opiskelija saattaa olla suorittanut hyvin arvosanoin ohjelmointikurssit mutta ei todellisuudessa osaa ohjelmoida, mikä voi olla suuri ongelma myöhemmillä kursseilla.
+Tällä hetkellä kurssit _Ohjelmoinnin perusteet_ ja _Ohjelmoinnin jatkokurssi_ voi suorittaa kokonaan tekoälyllä, koska kursseilla ei ole valvottua tenttiä. Tämän seurauksena opiskelija voi olla suorittanut ohjelmointikurssit hyvin arvosanoin mutta ei oikeasti osaa ohjelmoida, mikä voi olla suuri ongelma myöhemmillä kursseilla.
 
 ## Yhteenveto
 
-TODO
+1. Syynä kurssin pieneen suoritusmäärään ei vaikuta olevan, että opiskelijat eivät pääse läpi tentistä. Jos opiskelija keskeyttää kurssin, tämä tapahtuu yleensä kurssin alkuvaiheessa tehtäviä ratkoessa.
+
+2. Avoimen yliopiston suorittajien osuus on vähentynyt tentin myötä, mutta tämä ei yksin selitä vähentynyttä suoritusmäärää. Myös kurssin _Tietokantojen perusteet_ suorittajamäärä laski, vaikka kurssin voi suorittaa kokonaan verkossa.
+
+3. Vaikka kurssilla on perusasioita mittaava tentti, ongelmana arvostelussa on edelleen, että kurssin arvosana määräytyy suurimmaksi osaksi verkkotehtävien perusteella mutta monet opiskelijat vaikuttavat ratkovan tehtäviä tekoälyllä.
+
+4. Kurssi voi olla osalle opiskelijoista hyvin vaikea sen takia, että opiskelijoilla ei ole riittäviä ohjelmoinnin perustaitoja. Tämä voi myös kannustaa käyttämään tekoälyä kurssin suorittamisessa.
