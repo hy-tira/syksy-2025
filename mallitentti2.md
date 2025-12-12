@@ -75,7 +75,7 @@ Tehtävässä 4 sinun tulee näyttää, miksi annettu ahne algoritmi ei ole toim
 
 Tehtävänä on muodostaa listan pisin nouseva alijono eli kerätä listalta mahdollisimman monta alkiota vasemmalta oikealle kulkien niin, että jokainen alkio on edellistä suurempi.
 
-Ahne algoritmi: valitaan ensin listan pienin alkio, sitten pienin alkio tämän oikealla puolella, jne. Esimerkiksi listassa $$[5,1,3,2,4]$$ algoritmi valitsee ensin alkion $$1$$, sitten alkion $$2$$ ja lopuksi alkion $$4$$, jolloin tulee pisin nouseva alijono $$[1,2,4]$$.
+Ahne algoritmi: valitaan ensin listan pienin alkio, sitten pienin edellistä suurempi alkio tämän oikealla puolella, jne. Esimerkiksi listassa $$[5,1,3,2,4]$$ algoritmi valitsee ensin alkion $$1$$, sitten alkion $$2$$ ja lopuksi alkion $$4$$, jolloin tulee pisin nouseva alijono $$[1,2,4]$$.
 
 Näytä esimerkki listasta, jossa tämä ahne algoritmi ei toimi oikein. Minkä tuloksen algoritmi antaa ja miksi se on väärin?
 
