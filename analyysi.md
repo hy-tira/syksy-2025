@@ -100,7 +100,7 @@ Tällä hetkellä kurssit _Ohjelmoinnin perusteet_ ja _Ohjelmoinnin jatkokurssi_
 
 1. Syynä kurssin pieneen suoritusmäärään ei vaikuta olevan, että opiskelijat eivät pääse läpi tentistä. Jos opiskelija keskeyttää kurssin, tämä tapahtuu yleensä kurssin alkuvaiheessa tehtäviä ratkoessa.
 
-2. Avoimen yliopiston suorittajien osuus on vähentynyt tentin myötä, mutta tämä ei yksin selitä vähentynyttä suoritusmäärää. Myös kurssin _Tietokantojen perusteet_ suorittajamäärä laski, vaikka kurssin voi suorittaa kokonaan verkossa.
+2. Avoimen yliopiston suorittajien osuus on vähentynyt tentin myötä, mutta tämä ei yksin selitä vähentynyttä suoritusmäärää. Myös kurssin _Tietokantojen perusteet_ suoritusmäärä laski, vaikka kurssin voi suorittaa kokonaan verkossa.
 
 3. Vaikka kurssilla on perusasioita mittaava tentti, ongelmana arvostelussa on edelleen, että kurssin arvosana määräytyy suurimmaksi osaksi verkkotehtävien perusteella mutta monet opiskelijat vaikuttavat ratkovan tehtäviä tekoälyllä.
 
