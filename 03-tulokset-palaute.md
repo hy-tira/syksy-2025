@@ -8,4 +8,4 @@ hide: false
 
 * [Kurssin I-osan loppuraportti](../raportti1)
 * [Kurssin I-osan analyysi](../analyysi)
-
+* [Kurssin II-osan loppuraportti](../raportti2)
