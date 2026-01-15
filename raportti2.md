@@ -3,20 +3,20 @@ title: Kurssin II-osan loppuraportti
 permalink: /raportti2/
 hide: true
 ---
-    
+
 # Kurssin II-osan loppuraportti
 
-Kurssille osallistui 83 opiskelijaa, joista 37 (44.6 %) suoritti kurssin hyväksytysti.
+Kurssille osallistui 83 opiskelijaa, joista 45 (54.2 %) suoritti kurssin hyväksytysti.
 
 Arvosanajakauma:
 
-* Arvosana 1: 9 opiskelijaa (24.3 %)
-* Arvosana 2: 4 opiskelijaa (10.8 %)
-* Arvosana 3: 7 opiskelijaa (18.9 %)
-* Arvosana 4: 6 opiskelijaa (16.2 %)
-* Arvosana 5: 11 opiskelijaa (29.7 %)
+* Arvosana 1: 14 opiskelijaa (31.1 %)
+* Arvosana 2: 5 opiskelijaa (11.1 %)
+* Arvosana 3: 8 opiskelijaa (17.8 %)
+* Arvosana 4: 6 opiskelijaa (13.3 %)
+* Arvosana 5: 12 opiskelijaa (26.7 %)
 
-_Kurssilla on tulossa vielä kaksi korvaavaa tenttiä, ja yllä oleva tilasto tulee päivittymään._
+_Kurssilla on tulossa vielä yksi korvaava tentti, ja yllä oleva tilasto tulee päivittymään._
 
 ## Yhteenveto
 
