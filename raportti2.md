@@ -16,8 +16,6 @@ Arvosanajakauma:
 * Arvosana 4: 6 opiskelijaa (13.3 %)
 * Arvosana 5: 12 opiskelijaa (26.7 %)
 
-_Kurssilla on tulossa vielä yksi korvaava tentti, ja yllä oleva tilasto tulee päivittymään._
-
 ## Yhteenveto
 
 Kuten kurssin I-osassa, suorittajien määrä näyttää jäävän selvästi pienemmäksi kuin aiempina vuosina. Syksyllä 2024 kurssin suoritti 145 opiskelijaa, mutta syksyn 2025 suorittajien määrä ennen korvaavia tenttejä on vain 37 opiskelijaa.
